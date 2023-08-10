@@ -21,8 +21,7 @@ The Program includes a total of 5 image filters from opencv library.
  * Median Blur
  * Filter2D
  
- The program requires 2 header files `imgproc.hpp` for using the filters and `highgui.hpp` for displaying images and we store the path of our test image.
-
+ The program requires 2 header files `imgproc.hpp` for using the filters and `highgui.hpp` for displaying images.
 ### 1. Gaussian blur
 The function convolves the source image with the specified Gaussian kernel.  
 
