@@ -10,7 +10,7 @@
 2) Open the `OpenCV-Image-Filtering.sln` in visual studio.
 3) Now setup path directories for opencv in the project properties.
     * Under Configuration Properties, go to VC++ Directories and set the path for include directories and library directories to
-    `path\to\opencv-folder\opencv\build\include` and `path\to\opencv-folder\opencv\opencv\build\x64\vc16\lib` respectively.
+    `path\to\opencv-folder\opencv\build\include` and `path\to\opencv-folder\opencv\build\x64\vc16\lib` respectively.
     * Under Linker Properties, go to Input and add `opencv_world480d.lib` under Additional Dependencies.
 
 ### What does the Program do?
